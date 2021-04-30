@@ -1,0 +1,5 @@
+application\Personagem.class
+application\Inimigo.class
+application\Pacman.class
+application\Movel.class
+application\PacmanJogo.class
